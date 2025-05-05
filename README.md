@@ -24,8 +24,6 @@ Feel free to explore the projects, and don't hesitate to reach out if you have a
 ## Get In Touch
 
 - **GitHub:** [rahul-scad](https://github.com/rahul-scad)
-- **LinkedIn:** (Your LinkedIn Profile URL)
-- **Twitter:** (Your Twitter URL)
 
 Thank you for taking the time to visit my repository. Happy coding!
 ```
